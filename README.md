@@ -14,4 +14,4 @@ To run this on your machine, install the following:
 
 Is this github repo helpful 🤔?
 -------------
-If YES! then make sure ⭐ this github repo and subscribe to my YouTube [channel](https://www.youtube.com/c/YashMakan)
+If YES! then make sure ⭐ this github repo 
