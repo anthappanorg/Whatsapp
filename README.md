@@ -3,7 +3,6 @@ WhatsApp Redisign in Flutter
 
 A complete full stack whatsapp clone app made with Flutter, Python, Firebase & ❤
 
-[![YouTube Video: https://www.youtube.com/playlist?list=PLm8trMDxkTIlIJJqIHK12PiT36C8RpQCs](https://img.youtube.com/vi/yqsb3gKP_N4/0.jpg)]([https://www.youtube.com/watch?v=yqsb3gKP_N4](https://www.youtube.com/playlist?list=PLm8trMDxkTIlIJJqIHK12PiT36C8RpQCs))
 
 Installation
 -------------
